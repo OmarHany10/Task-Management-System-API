@@ -1,7 +1,3 @@
-Here’s the updated README with **Comment and Activity Log** endpoints added:  
-
----
-
 # Task Management System API  
 
 ## Overview  
